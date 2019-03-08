@@ -4,4 +4,9 @@ function product (num1, num2) {
     return product;
 }
 
-console.log(product(2,5));
+function subtract (num1, num2) {
+    return num1 - num2;
+}
+
+//console.log(product(2,5));
+console.log(subtract(5,2))
